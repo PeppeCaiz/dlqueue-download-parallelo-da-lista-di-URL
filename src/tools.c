@@ -33,6 +33,24 @@ const char *url_basename(const char *url) {
     else {
         return url;
     }
+    
 }
-
+int menu(const char *url) {
+    char in;
+    printf("Vuoi scaricare i file elencati in '%s'? (y/n):", url);
+    in=getchar();
+    switch(in){
+        case 'y':
+        case 'Y':
+            printf("Inizio download dei file...\n");
+            return 1;
+        case 'n':
+        case 'N':
+            printf("Download annullato.\n");
+            return 0;
+        default:
+            printf("Input non valido. Inserisci 'y' o 'n'.\n");
+            return menu(url);
+    }
+}
  
