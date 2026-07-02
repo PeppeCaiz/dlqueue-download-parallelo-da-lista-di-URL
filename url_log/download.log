@@ -1,0 +1,230 @@
+2026-07-01 10:33:01  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:33:01  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:33:01  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:33:02  FAILED  \t   \n
+2026-07-01 10:33:02  OK      https://example.com
+2026-07-01 10:33:02  OK      https://example.com
+2026-07-01 10:33:02  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:33:03  OK      https://httpbin.org/get
+2026-07-01 10:33:03  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:33:05  FAILED  https://server2.com/data.zip
+2026-07-01 10:33:35  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:33:35  SKIP    https://httpbin.org/get
+2026-07-01 10:33:35  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:33:35  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:33:35  FAILED  \t   \n
+2026-07-01 10:33:35  OK      https://example.com
+2026-07-01 10:33:35  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:33:35  OK      https://example.com
+2026-07-01 10:33:36  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:33:37  FAILED  https://httpbin.org/status/200
+2026-07-01 10:33:38  FAILED  https://server2.com/data.zip
+2026-07-01 10:34:21  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:34:21  SKIP    https://httpbin.org/get
+2026-07-01 10:34:21  SKIP    https://httpbin.org/status/200
+2026-07-01 10:34:21  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:34:21  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:34:21  FAILED  \t   \n
+2026-07-01 10:34:21  OK      https://example.com
+2026-07-01 10:34:21  OK      https://example.com
+2026-07-01 10:34:22  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:34:22  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:34:24  FAILED  https://server2.com/data.zip
+2026-07-01 10:36:37  FAILED  https://server1.com/data.zip
+
+2026-07-01 10:38:56  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:38:56  SKIP    https://httpbin.org/get
+2026-07-01 10:38:56  SKIP    https://httpbin.org/status/200
+2026-07-01 10:38:56  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:38:56  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:38:56  FAILED  \t   \n
+2026-07-01 10:38:57  OK      https://example.com
+2026-07-01 10:38:57  OK      https://example.com
+2026-07-01 10:38:57  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:38:58  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:38:59  FAILED  https://server2.com/data.zip
+2026-07-01 10:40:42  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:40:42  SKIP    https://httpbin.org/get
+2026-07-01 10:40:42  SKIP    https://httpbin.org/status/200
+2026-07-01 10:40:42  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:40:42  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:40:42  FAILED  \t   \n
+2026-07-01 10:40:42  OK      https://example.com
+2026-07-01 10:40:42  OK      https://example.com
+2026-07-01 10:40:42  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:40:43  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:40:45  FAILED  https://server2.com/data.zip
+2026-07-01 10:41:02  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:41:02  SKIP    https://httpbin.org/get
+2026-07-01 10:41:02  SKIP    https://httpbin.org/status/200
+2026-07-01 10:41:02  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:41:02  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:41:03  FAILED  \t   \n
+2026-07-01 10:41:03  OK      https://example.com
+2026-07-01 10:41:03  OK      https://example.com
+2026-07-01 10:41:03  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:41:04  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:41:06  FAILED  https://server2.com/data.zip
+2026-07-01 10:44:43  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:44:43  SKIP    https://httpbin.org/get
+2026-07-01 10:44:43  SKIP    https://httpbin.org/status/200
+2026-07-01 10:44:43  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:44:43  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:44:43  FAILED  \t   \n
+2026-07-01 10:44:43  OK      https://example.com
+2026-07-01 10:44:43  OK      https://example.com
+2026-07-01 10:44:43  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:44:44  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:44:46  FAILED  https://server2.com/data.zip
+2026-07-01 10:47:39  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:47:39  SKIP    https://httpbin.org/get
+2026-07-01 10:47:39  SKIP    https://httpbin.org/status/200
+2026-07-01 10:47:39  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:47:39  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:47:39  FAILED  \t   \n
+2026-07-01 10:47:40  OK      https://example.com
+2026-07-01 10:47:40  OK      https://example.com
+2026-07-01 10:47:40  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:47:41  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:47:42  FAILED  https://server2.com/data.zip
+2026-07-01 10:53:49  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 10:53:49  SKIP    https://httpbin.org/get
+2026-07-01 10:53:49  SKIP    https://httpbin.org/status/200
+2026-07-01 10:53:49  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 10:53:49  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 10:53:49  FAILED  \t   \n
+2026-07-01 10:53:49  OK      https://example.com
+2026-07-01 10:53:49  OK      https://example.com
+2026-07-01 10:53:49  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 10:53:51  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 10:53:52  FAILED  https://server2.com/data.zip
+2026-07-01 11:00:39  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 11:00:39  SKIP    https://httpbin.org/get
+2026-07-01 11:00:39  SKIP    https://httpbin.org/status/200
+2026-07-01 11:00:39  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 11:00:39  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 11:00:39  FAILED  \t   \n
+2026-07-01 11:00:40  OK      https://example.com
+2026-07-01 11:00:40  OK      https://example.com
+2026-07-01 11:00:40  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 11:00:41  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 11:00:42  FAILED  https://server2.com/data.zip
+2026-07-01 11:01:19  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 11:01:19  SKIP    https://httpbin.org/get
+2026-07-01 11:01:19  SKIP    https://httpbin.org/status/200
+2026-07-01 11:01:19  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 11:01:19  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 11:01:19  FAILED  \t   \n
+2026-07-01 11:01:19  OK      https://example.com
+2026-07-01 11:01:19  OK      https://example.com
+2026-07-01 11:01:19  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 11:01:20  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 11:01:21  FAILED  https://server2.com/data.zip
+2026-07-01 11:01:30  FAILED  https://server1.com/data.zip
+
+2026-07-01 11:17:48  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 11:17:48  SKIP    https://httpbin.org/get
+2026-07-01 11:17:48  SKIP    https://httpbin.org/status/200
+2026-07-01 11:17:48  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 11:17:48  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 11:17:48  FAILED  \t   \n
+2026-07-01 11:17:49  OK      https://example.com
+2026-07-01 11:17:49  OK      https://example.com
+2026-07-01 11:17:49  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 11:17:50  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 11:17:51  FAILED  https://server2.com/data.zip
+2026-07-01 11:18:00  FAILED  https://server1.com/data.zip
+2026-07-01 11:18:00  
+        
+2026-07-01 11:18:39  SKIP    https://www.iana.org/domains/reserved
+2026-07-01 11:18:39  SKIP    https://httpbin.org/get
+2026-07-01 11:18:39  SKIP    https://httpbin.org/status/200
+2026-07-01 11:18:39  SKIP    https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 11:18:39  SKIP    https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 11:18:40  FAILED  \t   \n
+2026-07-01 11:18:40  OK      https://example.com
+2026-07-01 11:18:40  OK      https://example.com
+2026-07-01 11:18:40  FAILED  https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 11:18:41  FAILED  https://example.com/file.php?name=report&format=pdf
+2026-07-01 11:18:42  FAILED  https://server2.com/data.zip
+2026-07-01 11:19:12  FAILED  https://server1.com/data.zip
+2026-07-01 11:19:12  
+        2026-07-01 19:07:12  OK     https://example.com
+2026-07-01 19:07:12  OK     https://www.iana.org/domains/reserved
+2026-07-01 19:07:12  OK     https://httpbin.org/get
+2026-07-01 19:07:12  OK     https://httpbin.org/status/200
+2026-07-01 19:07:12  OK     https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 19:07:13  OK     https://example.com
+2026-07-01 19:07:13  FAILED \t   \n
+2026-07-01 19:07:13  OK     https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 19:07:13  FAILED https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 19:07:14  FAILED https://example.com/file.php?name=report&format=pdf
+2026-07-01 19:07:16  FAILED https://server2.com/data.zip
+2026-07-01 19:07:21  FAILED https://server1.com/data.zip
+2026-07-01 19:07:21  
+       
+2026-07-01 19:09:47  SKIP   https://www.iana.org/domains/reserved
+2026-07-01 19:09:48  SKIP   https://httpbin.org/get
+2026-07-01 19:09:48  SKIP   https://httpbin.org/status/200
+2026-07-01 19:09:48  SKIP   https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 19:09:48  OK     https://example.com
+2026-07-01 19:09:48  SKIP   https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 19:09:48  OK     https://example.com
+2026-07-01 19:09:48  FAILED \t   \n
+2026-07-01 19:09:48  FAILED https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 19:09:49  FAILED https://example.com/file.php?name=report&format=pdf
+2026-07-01 19:09:50  FAILED https://server2.com/data.zip
+2026-07-01 19:10:02  FAILED https://server1.com/data.zip
+
+2026-07-01 19:10:45  SKIP   https://www.iana.org/domains/reserved
+2026-07-01 19:10:45  SKIP   https://httpbin.org/get
+2026-07-01 19:10:45  SKIP   https://httpbin.org/status/200
+2026-07-01 19:10:45  SKIP   https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 19:10:46  SKIP   https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 19:10:46  OK     https://example.com
+2026-07-01 19:10:46  OK     https://example.com
+2026-07-01 19:10:46  FAILED \t   \n
+2026-07-01 19:10:46  FAILED https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 19:10:46  FAILED https://example.com/file.php?name=report&format=pdf
+2026-07-01 19:10:48  FAILED https://server2.com/data.zip
+2026-07-01 19:10:51  FAILED https://server1.com/data.zip
+
+2026-07-01 19:13:03  SKIP   https://www.iana.org/domains/reserved
+2026-07-01 19:13:03  SKIP   https://httpbin.org/get
+2026-07-01 19:13:03  SKIP   https://httpbin.org/status/200
+2026-07-01 19:13:03  SKIP   https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 19:13:04  OK     https://example.com
+2026-07-01 19:13:04  SKIP   https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 19:13:04  OK     https://example.com
+2026-07-01 19:13:04  FAILED \t   \n
+2026-07-01 19:13:04  FAILED https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 19:13:05  FAILED https://example.com/file.php?name=report&format=pdf
+2026-07-01 19:13:06  FAILED https://server2.com/data.zip
+2026-07-01 19:13:08  FAILED https://server1.com/data.zip
+
+2026-07-01 19:20:01  SKIP   https://www.iana.org/domains/reserved
+2026-07-01 19:20:01  SKIP   https://httpbin.org/get
+2026-07-01 19:20:01  SKIP   https://httpbin.org/status/200
+2026-07-01 19:20:01  SKIP   https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 19:20:01  SKIP   https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 19:20:01  OK     https://example.com
+2026-07-01 19:20:01  OK     https://example.com
+2026-07-01 19:20:01  FAILED \t   \n
+2026-07-01 19:20:01  FAILED https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 19:20:02  FAILED https://example.com/file.php?name=report&format=pdf
+2026-07-01 19:20:04  FAILED https://server2.com/data.zip
+2026-07-01 19:20:25  FAILED https://server1.com/data.zip
+
+2026-07-01 19:20:45  SKIP   https://www.iana.org/domains/reserved
+2026-07-01 19:20:45  SKIP   https://httpbin.org/get
+2026-07-01 19:20:45  SKIP   https://httpbin.org/status/200
+2026-07-01 19:20:45  SKIP   https://www.rfc-editor.org/rfc/rfc791.txt
+2026-07-01 19:20:45  OK     https://example.com
+2026-07-01 19:20:45  SKIP   https://roberto-marino.github.io/teaching/teaching.html
+2026-07-01 19:20:45  OK     https://example.com
+2026-07-01 19:20:45  FAILED \t   \n
+2026-07-01 19:20:46  FAILED https://url-che-non-esiste-123456.com/file.txt
+2026-07-01 19:20:46  FAILED https://example.com/file.php?name=report&format=pdf
+2026-07-01 19:20:48  FAILED https://server2.com/data.zip
+2026-07-01 19:21:05  FAILED https://server1.com/data.zip
+

@@ -1,0 +1,12 @@
+https://www.iana.org/domains/reserved
+https://httpbin.org/get
+https://httpbin.org/status/200
+https://example.com
+https://www.rfc-editor.org/rfc/rfc791.txt
+https://url-che-non-esiste-123456.com/file.txt
+https://example.com/file.php?name=report&format=pdf
+\t   \n
+https://example.com
+https://server1.com/data.zip
+https://server2.com/data.zip
+https://roberto-marino.github.io/teaching/teaching.html
