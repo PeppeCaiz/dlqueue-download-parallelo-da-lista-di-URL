@@ -2,7 +2,7 @@
 CC       := gcc
 CFLAGS   := -Wall -Wextra -std=c11
 CPPFLAGS := -Iinclude
-TARGET   := Dowloader
+TARGET   := downloader
 BUILD    := build
 
 # ── Sorgenti e oggetti ────────────────────────────────────────
