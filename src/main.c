@@ -91,10 +91,8 @@ int main(void) {
                     break;
                 }
                 if (pid == 0) {
-                    execlp("wget", "wget", "-q", "--timeout=3", "-P", DESTDIR, t->url, (char *)NULL);
-                    //non vado ad utilizzare --tries perchè non voglio bloccare il figlio in caso di fallimento,
-                    // voglio che torni subito al padre per poter reinserire il task in coda
-                    perror("execlp wget");
+                    execvp("wget", (char *[]){"wget", "-q", "--timeout=3", "-P", DESTDIR, t->url, NULL});
+                    perror("execvp wget");
                     exit(127);
                 }
                 
