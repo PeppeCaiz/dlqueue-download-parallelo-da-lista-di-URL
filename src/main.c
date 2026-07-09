@@ -24,7 +24,12 @@ static void sigchld_handler(int signo) {
 int main(void) {
     int menu_result = menu(URLPATH);
     if (menu_result == 1) {
-
+        //fa partire il timer
+        struct timespec start, end;
+        if (clock_gettime(CLOCK_MONOTONIC, &start) != 0) {
+            perror("clock_gettime");
+            return 1;
+        }
         FILE *furl = fopen(URLPATH, "r");
         if (!furl) {
         perror("fopen url");
@@ -136,8 +141,9 @@ int main(void) {
             }
         }   
         sigprocmask(SIG_SETMASK, &mask_orig, NULL);
+        double elapsed = (end.tv_sec - start.tv_sec) + (end.tv_nsec - start.tv_nsec) / 1e9;
         log_write(flog, " ", "\n");
-        printf("Downloads completati. Controlla il file di log '%s' per i dettagli.\n", LOGPATH);
+        printf("Downloads completati in %.3f secondi con %d processi. Controlla il file di log '%s' per i dettagli.\n", elapsed, MAX_WORKERS, LOGPATH);
         fclose(flog);
     }
     return 0;   
